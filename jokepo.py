@@ -242,7 +242,7 @@ def Computador_x_Computador():
     print("PORCENTUAL DE VITÓRIAS :",porcentual_de_vitorias_computador_1_modo_de_jogo_3)
     print("---------------------------")
     print("Computador 2: ")
-    print("NÚMEROS DE PARTIDAS:", total_de_jogos_jogador_computador_2)
+    print("NÚMEROS DE PARTIDAS:", tdotal_de_jogos_jogador_computador_2)
     print("VITÓRIAS:",  vitoria_jogador_computador_2)
     print("DERROTAS:", derota_jogador_computador_2)
     print("EMPATES:", empate_jogador_computador_2)
