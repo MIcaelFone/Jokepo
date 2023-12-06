@@ -1,4 +1,4 @@
 # Jokepo
-It is a simple program that simulates the famous game of rock-paper-scissors. It allows the user to plays 3 modes: Human VS Human , Human Vs Computador, Computador Vs Computador
+It is a simple program that simulates the famous game of rock-paper-scissors. It allows the user to play in 3 modes: Human vs. Human, Human vs. Computer, and computer vs. computer.
 <h1>How it works each mode</h1>
-<p>Human vs Human: It is a mode which two human play against other each other. So Human vs Computador is a mode whicn a human player plays against the computador player and already Computador Vs Computador mode is  two computador players againt each other </p>
+<p> "Human vs. Human" is a mode in which two humans play against each other. So Human vs. Computer is a mode in which a human player plays against the computer player, and already Computer vs. Computer mode is  two computer players against each other </p>
