@@ -1,5 +1,6 @@
 
 from random import randint
+import os
 
 vitoria_jogador_humano = 0
 vitoria_jogador_humano_2 = 0
