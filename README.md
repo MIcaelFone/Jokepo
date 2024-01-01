@@ -6,12 +6,12 @@ It is a simple program that simulates the famous game of rock-paper-scissors. It
 <div>
     <p>First you need this choice a mode</p>
     <img src="./assets/menu_inical.png"></img>
-<div>
+</div>
 <div>
     <p>After you choose the mode, if thgit e mode is not Computador vs. Computador, you need to insert the correct option to play </p>   
      <img src="/assets/jogada.png"></img> 
-<div>
+</div>
 <div>
     <p>This is the final scoreboard after the match </p>   
     <img src="/assets/scoreboard.png"></img> 
-<div>
+</div>
