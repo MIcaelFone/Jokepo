@@ -16,5 +16,5 @@ It is a simple program that simulates the famous game of rock-paper-scissors. It
     <img src="/assets/scoreboard.png"></img> 
 <div>
 
-<h1> How Can I run this project?</h1>
+<h2> How Can I run this project?</h2>
 <p> First you need to install the latest version of Python 3.11.0. After that, you can run this code</p>
