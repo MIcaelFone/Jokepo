@@ -38,7 +38,7 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 ## ⚙️ Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/MicaelFone/Frontend--questionario.git
+git clone https://github.com/MIcaelFone/Jokepo.git
 ```
 
 ## 🕹️ How to Play
