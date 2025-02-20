@@ -3,12 +3,17 @@
 A simple yet interactive implementation of the classic rock-paper-scissors game with three gameplay modes.
 
 ## 📋 Table of Contents
-- [Features](#-features)
-- [Game Modes](#-game-modes)
-- [Installation](#-Installation)
-- [How-to-play](#-How-to-play)
-- [Technologies](#-technologies)
-- [Contributing](#-contributing)
+- [🚀 Features](#-features)
+- [🎲 Game Modes](#-game-modes)
+- [⚙️ Installation](#-installation)
+- [🕹️ How to Play](#-how-to-play)
+  - [🚀 Starting the Game](#-starting-the-game)
+  - [🎮 Selecting the Game Mode](#-selecting-the-game-mode)
+  - [✋ Making Your Move](#-making-your-move)
+  - [🏆 Viewing the Results](#-viewing-the-results)
+- [💻 Technologies](#-technologies)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ## 🚀 Features
 - 3 different gameplay modes
@@ -36,7 +41,7 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 git clone https://github.com/MicaelFone/Frontend--questionario.git
 ```
 
-## 🕹️ How-to-play
+## 🕹️ How to Play
 
 ### 🚀 Starting the Game
 To start the game, run the following command in the terminal:
@@ -47,7 +52,7 @@ python jokepo.py  # Or use the appropriate command for your implementation
 ### 🎮 Selecting the Game Mode
 When you start, you will see the game mode selection screen:
 
-<img src="./assets/menu_inicial.png"></img>
+![Main Menu](./assets/menu_inicial.png)
 
 ### ✋ Making Your Move
 If playing against another player or the computer, choose your move:
@@ -81,3 +86,5 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a Pull Request
 
+## 📜 License
+This project is licensed under the MIT License.
