@@ -6,7 +6,7 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 - [Features](#-features)
 - [Game Modes](#-game-modes)
 - [Installation](#-Installation)
-- [Usage](#-how-to-play)
+- [How-to-play](#-How-to-play)
 - [Technologies](#-technologies)
 - [Contributing](#-contributing)
 
@@ -36,7 +36,7 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 git clone https://github.com/MicaelFone/Frontend--questionario.git
 ```
 
-## 🕹️ How to Play
+## 🕹️ How-to-Play
 
 ### 🚀 Starting the Game
 To start the game, run the following command in the terminal:
