@@ -36,7 +36,7 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 ```bash
 git clone https://github.com/MIcaelFone/Frontend--questionario.git
 ```
- # 🕹️ Jokenpô - How to Play
+ # 🕹️ Jokepo - How to Play
 
 ## 🚀 Starting the Game
 To start the game, run the following command in the terminal:
