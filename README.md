@@ -52,7 +52,7 @@ python jokepo.py  # Or use the appropriate command for your implementation
 ### 🎮 Selecting the Game Mode
 When you start, you will see the game mode selection screen:
 
-<img src="./assets/menu_inicial.png"></img>
+<img src="../assets/menu_inicial.png"></img>
 
 ### ✋ Making Your Move
 If playing against another player or the computer, choose your move:
