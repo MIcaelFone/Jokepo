@@ -13,7 +13,7 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
   - [🏆 Viewing the Results](#-viewing-the-results)
 - [💻 Technologies](#-technologies)
 - [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+
 
 ## 🚀 Features
 - 3 different gameplay modes
@@ -86,5 +86,4 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a Pull Request
 
-## 📜 License
-This project is licensed under the MIT License.
+
