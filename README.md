@@ -2,8 +2,6 @@
 
 A simple yet interactive implementation of the classic rock-paper-scissors game with three gameplay modes.
 
-![Game Modes](./assets/menu_inicial.png)
-
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Game Modes](#-game-modes)
@@ -38,13 +36,15 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 ```bash
 git clone https://github.com/MIcaelFone/Frontend--questionario.git
 ```
-
-    <h3>First you need this choice a mode</h3>
-    <img src="./assets/menu_inical.png"></img>
-    <p>After you choose the mode, if thgit e mode is not Computador vs. Computador, you need to insert the correct option to play </p>   
-     <img src="/assets/jogada.png"></img> 
-
-
-    <h3>This is the final scoreboard after the match </h3>   
-    <img src="/assets/scoreboard.png"></img> 
+## 🕹️ Usage
+1. Start the game:
+```bash
+python jokepo.py  # or use the appropriate command for your implementation
+```
+2. Select game mode:
+<img src="./assets/menu_inical.png"></img>
+3.Make your move (if playing against human/computer):
+ <img src="/assets/jogada.png"></img> 
+4.View final results:
+<img src="/assets/scoreboard.png"></img> 
 
