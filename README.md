@@ -47,7 +47,7 @@ python jokepo.py  # Or use the appropriate command for your implementation
 ## 🎮 Selecting the Game Mode
 When you start, you will see the game mode selection screen:
 
-![Main Menu]("./assets/menu_inical.png")
+("./assets/menu_inical.png")
 
 
 ## ✋ Making Your Move
