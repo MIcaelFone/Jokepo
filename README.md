@@ -36,15 +36,27 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 ```bash
 git clone https://github.com/MIcaelFone/Frontend--questionario.git
 ```
-## 🕹️ Usage
-1. Start the game:
+ # 🕹️ Jokenpô - How to Play
+
+## 🚀 Starting the Game
+To start the game, run the following command in the terminal:
 ```bash
-python jokepo.py  # or use the appropriate command for your implementation
+python jokepo.py  # Or use the appropriate command for your implementation
 ```
-2. Select game mode:
-<img src="./assets/menu_inical.png"></img>
-3.Make your move (if playing against human/computer):
- <img src="/assets/jogada.png"></img> 
-4.View final results:
-<img src="/assets/scoreboard.png"></img> 
+
+## 🎮 Selecting the Game Mode
+When you start, you will see the game mode selection screen:
+
+![Main Menu](./assets/menu_inicial.png)
+
+## ✋ Making Your Move
+If playing against another player or the computer, choose your move:
+
+![Move](./assets/jogada.png)
+
+## 🏆 Viewing the Results
+After all rounds, check the final scoreboard:
+
+![Scoreboard](./assets/scoreboard.png)
+ 
 
