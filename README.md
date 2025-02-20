@@ -5,11 +5,10 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Game Modes](#-game-modes)
-- [Installation](#-installation)
-- [Usage](#-usage)
+- [Installation](#-Installation)
+- [Usage](#-How to Play)
 - [Technologies](#-technologies)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🚀 Features
 - 3 different gameplay modes
