@@ -6,7 +6,7 @@ A simple yet interactive implementation of the classic rock-paper-scissors game 
 - [Features](#-features)
 - [Game Modes](#-game-modes)
 - [Installation](#-Installation)
-- [Usage](#-How to Play)
+- [Usage](#-how-to-play)
 - [Technologies](#-technologies)
 - [Contributing](#-contributing)
 
