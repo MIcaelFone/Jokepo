@@ -1,8 +1,43 @@
-# Jokepo
-It is a simple program that simulates the famous game of rock-paper-scissors. It allows the user to play in 3 modes: Human vs. Human, Human vs. Computer, and computer vs. computer.
-<h1>How it works each mode</h1>
-<p> "Human vs. Human" is a mode in which two humans play against each other. So Human vs. Computer is a mode in which a human player plays against the computer player, and already Computer vs. Computer mode is  two computer players against each other </p>
- <h1> How this code works?</h1>
+# 🎮 Jokepo - Rock-Paper-Scissors Game Simulator
+
+A simple yet interactive implementation of the classic rock-paper-scissors game with three gameplay modes.
+
+![Game Modes](./assets/menu_inicial.png)
+
+## 📋 Table of Contents
+- [Features](#-features)
+- [Game Modes](#-game-modes)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Technologies](#-technologies)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+## 🚀 Features
+- 3 different gameplay modes
+- Interactive score tracking
+- Computer AI opponent
+- Simple terminal-based interface
+
+## 🎲 Game Modes
+
+### Human vs. Human 🤼
+- Two players take turns making choices
+- Perfect for local multiplayer
+
+### Human vs. Computer 🤖
+- Play against computer logic
+- Computer choices are randomized
+
+### Computer vs. Computer 🤖🤖
+- Watch AI battle it out
+- Fully automated gameplay
+
+## ⚙️ Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/MIcaelFone/Frontend--questionario.git
+```
 
     <h3>First you need this choice a mode</h3>
     <img src="./assets/menu_inical.png"></img>
